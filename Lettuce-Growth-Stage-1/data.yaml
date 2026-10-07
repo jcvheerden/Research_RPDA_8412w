@@ -1,0 +1,14 @@
+names:
+- Harvest Stage
+- Seedling Stage
+- Vegetative Stage
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: lettuce-growth-stage-qld0b
+  url: https://universe.roboflow.com/robotics-v9fnj/lettuce-growth-stage-qld0b/dataset/1
+  version: 1
+  workspace: robotics-v9fnj
+test: ../test/images
+train: ../train/images
+val: ../valid/images
